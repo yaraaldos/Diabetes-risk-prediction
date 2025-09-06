@@ -1,15 +1,14 @@
-# Diabetes-risk-prediction
 # Early Stage Diabetes Risk Prediction
 
 ## Project Description
-This project focuses on analyzing and predicting the risk of **early-stage diabetes** using the Early Stage Diabetes Risk Prediction Dataset from the UCI Machine Learning Repository.  
+This project focuses on analyzing and predicting the risk of early-stage diabetes using the Early Stage Diabetes Risk Prediction Dataset from the UCI Machine Learning Repository.  
 
 We aim to:  
-- **Classify** individuals into categories (likely diabetic vs. non-diabetic).  
-- **Cluster** patients with similar risk profiles to uncover hidden patterns.  
+- Classify individuals into categories (likely diabetic vs. non-diabetic).  
+- Cluster patients with similar risk profiles to uncover hidden patterns.  
 
 ## Project Motivation
-Diabetes is often called a *“silent killer”* because its early stages usually go unnoticed until severe complications arise. Many individuals live unaware of their risks, which prevents them from taking preventive measures in time.  
+Diabetes is often called a “silent killer” because its early stages usually go unnoticed until severe complications arise. Many individuals live unaware of their risks, which prevents them from taking preventive measures in time.  
 
 By working on this dataset, our motivation is not only academic but also societal:  
 - Data science can empower healthcare by identifying hidden signals in patient data.  
