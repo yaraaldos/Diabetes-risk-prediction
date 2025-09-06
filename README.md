@@ -5,7 +5,7 @@ Lab: 56544  , group number : 2
 ## Project Description
 This project focuses on analyzing and predicting the risk of early-stage diabetes using the Early Stage Diabetes Risk Prediction Dataset from the UCI Machine Learning Repository.  
 
-**We aim to: ** 
+**We aim to:** 
 - Classify individuals into categories (likely diabetic vs. non-diabetic).  
 - Cluster patients with similar risk profiles to uncover hidden patterns.  
 
