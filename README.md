@@ -14,7 +14,7 @@ The project focuses on analyzing patient data to predict the risk of early-stage
 ## Project Motivation
 Diabetes is a growing global health issue that often develops silently, making early detection crucial. We are motivated to explore this dataset both to understand diabetes risk factors and to develop our data mining skills.
 
-Working on this dataset is important for several reasons:
+This dataset is important for several reasons:
 
 - It allows the application of machine learning to predict individuals at risk of early-stage diabetes.  
 - Early prediction can help guide lifestyle and medical interventions to reduce long-term health problems.  
