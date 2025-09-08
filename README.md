@@ -3,21 +3,22 @@
 Lab: 56544  , group number : 2
 
 ## Project Description
-This project focuses on analyzing and predicting the risk of early-stage diabetes using the Early Stage Diabetes Risk Prediction Dataset from the UCI Machine Learning Repository.  
-
-Early-stage diabetes is difficult to detect because symptoms often go unnoticed until severe complications occur. 
+The problem this project addresses is the **early detection of diabetes** to prevent serious health complications.  
+The project focuses on analyzing patient data to predict the risk of early-stage diabetes.
 
 **Our project aims to address this problem by:**
-- Classify individuals into categories (likely diabetic vs. non-diabetic).  
-- Cluster patients with similar risk profiles to uncover hidden patterns.  
+- Classify individuals as **"likely to have early-stage diabetes"** or **"unlikely to have diabetes."**  
+- Identify key health indicators linked to diabetes risk.  
+- Support early detection and timely medical intervention.
 
 ## Project Motivation
-Diabetes is often called a “silent killer” because its early stages usually go unnoticed until severe complications arise. Many individuals live unaware of their risks, which prevents them from taking preventive measures in time.  
+Diabetes is a growing global health issue that often develops silently, making early detection crucial for preventing serious complications.  
+Working on this dataset is important for several reasons:
 
-By working on this dataset, our motivation is not only academic but also societal:  
-- Data science can empower healthcare by identifying hidden signals in patient data.  
-- Early prediction can guide individuals to make lifestyle changes before irreversible damage occurs.  
-- We want to contribute, even in a small way, to improving awareness and supporting global health.  
+- It allows the application of machine learning to predict individuals at risk of early-stage diabetes.  
+- Early prediction can help guide lifestyle and medical interventions to reduce long-term health problems.  
+- The project contributes to raising awareness of diabetes risk and demonstrates the practical impact of data science in healthcare.  
+ 
 
 ## Group Members:
 - Jana Almughamis – 445202372  
