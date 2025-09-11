@@ -8,11 +8,12 @@ The project focuses on analyzing patient data to predict the risk of early-stage
 
 **Our project aims to address this problem by:**
 - Classify individuals as **"likely to have early-stage diabetes"** or **"unlikely to have diabetes."**  
-- Identify key health indicators linked to diabetes risk.  
+- Identify key health indicators linked to diabetes risk.
+- **Explore clustering techniques** to group patients with similar health profiles, uncovering hidden patterns or subgroups related to diabetes ris
 - Support early detection and timely medical intervention.
 
 ## Project Motivation
-Diabetes is a growing global health issue that often develops silently, making early detection crucial. We are motivated to explore this dataset both to understand diabetes risk factors and to develop our data mining skills.
+Diabetes is a growing global health issue that often develops silently, making early detection crucial. We chose this dataset because it provides clear and well-structured medical indicators, making it ideal for applying data mining techniques like classification and clustering.
 
 This dataset is important for several reasons:
 
